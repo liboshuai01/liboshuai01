@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Apache Flink](https://github.com/apache/flink/)
+- 🔭 I’m currently studying on [Apache Flink](https://github.com/apache/flink/)
 - 🌱 I’m currently learning analytics and storage of big data
 - 📫 How to reach me: liboshuai01@gmail.com
 - ⚡ Fun fact: I am a fan of Einstein.
